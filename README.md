@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anton Verkhovets</h1>
-<h3 align="center">A young little C#, Unity developer</h3>
+<h3 align="center">A C#, Unity developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://svarog00.itch.io/](https://svarog00.itch.io/)
 
