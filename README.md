@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anton Verkhovets</h1>
 <h3 align="center">A C#, Unity developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://svarog00.itch.io/](https://svarog00.itch.io/)
+- 👨‍💻 All of my projects are available at [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://svarog00.itch.io/)
 
 - 📫 How to reach me **Anton-Verkhovets-57@yandex.ru**
 
