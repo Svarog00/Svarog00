@@ -19,4 +19,3 @@
 ### My contacts  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-273254?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/anton-verkhovets-741139429)
 [![Telegram](https://img.shields.io/badge/Telegram-273254?style=for-the-badge&logo=Telegram)](https://t.me/svarog00)
-![GMail](https://img.shields.io/badge/ainurdada@gmail.com-273254?style=for-the-badge&logo=GMail)
