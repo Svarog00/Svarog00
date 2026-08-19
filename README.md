@@ -19,3 +19,4 @@
 ### My contacts  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-273254?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/anton-verkhovets-741139429)
 [![Telegram](https://img.shields.io/badge/Telegram-273254?style=for-the-badge&logo=Telegram)](https://t.me/svarog00)
+[![EMail](https://img.shields.io/badge/LinkedIn-273254?style=for-the-badge&logo=LinkedIn)](Anton-Verkhovets-57@yandex.ru)
